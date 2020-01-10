@@ -42,7 +42,8 @@
                   <div class="ow-item">
                     <img src="img/works/balakan.jpg" alt="">
                     <a href="https://balakan.store/" class="ow-link" target="_blank">
-                      <i class="fas fa-globe"></i>
+                      <i class="fas fa-shopping-basket"></i>
+                      <!-- <i class="fas fa-globe"></i> -->
                       <i class="fab fa-wordpress"></i>
                       <span>balakan.store</span>
                     </a>
