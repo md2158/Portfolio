@@ -1,0 +1,71 @@
+@mixin transition-all($t) {
+    -webkit-transition: all #{$t}s ease-out;
+    -moz-transition: all #{$t}s ease-out;
+    -o-transition: all #{$t}s ease-out;
+    transition: all #{$t}s ease-out;
+}
+
+@mixin box-shadow($x, $y, $z, $n) {    
+    box-shadow: #{$x}px #{$y}px #{$z}px rgba(0, 80, 99, $n)!important;
+    -moz-box-shadow: #{$x}px #{$y}px #{$z}px rgba(0, 80, 99, $n)!important;
+    -webkit-box-shadow: #{$x}px #{$y}px #{$z}px rgba(0, 80, 99, $n)!important;
+}
+
+body {
+    min-width: 320px;
+    background-color: #eaf7fa;
+}
+.logo {
+    svg {
+        width: 100%;
+        height: auto;
+    }
+}
+.grecaptcha-badge {
+    display: none;
+}
+.our-works {
+    .ow-item {
+        text-align: center;
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin-bottom: -10px;
+            @include box-shadow(0, 0, 10, .3 );
+        }
+        .ow-link {
+            background-color: #ffffff;
+            padding: 5px 15px 5px 5px;
+            border-radius: 20px;
+            color: #000;
+            cursor: pointer;
+            @include box-shadow(0, 0, 10, .4 );
+            @include transition-all(.2);
+            i {
+                color: #00bfa5;
+                @include transition-all(.2);
+                &:last-of-type {
+                    margin-right: 10px;
+                }
+            }
+            &:hover {
+                background-color: #00bfa5;
+                color: #ffffff;
+                i {
+                    color: #ffffff;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1199px) {
+   
+}
+
+@media (max-width: 991px) {
+    
+}
+@media (max-width: 767px) {
+   
+}

@@ -1,0 +1,58 @@
+body {
+  min-width: 320px;
+  background-color: #eaf7fa;
+}
+
+.logo svg {
+  width: 100%;
+  height: auto;
+}
+
+.grecaptcha-badge {
+  display: none;
+}
+
+.our-works .ow-item {
+  text-align: center;
+}
+.our-works .ow-item img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: -10px;
+  box-shadow: 0px 0px 10px rgba(0, 80, 99, 0.3) !important;
+  -moz-box-shadow: 0px 0px 10px rgba(0, 80, 99, 0.3) !important;
+  -webkit-box-shadow: 0px 0px 10px rgba(0, 80, 99, 0.3) !important;
+}
+.our-works .ow-item .ow-link {
+  background-color: #ffffff;
+  padding: 5px 15px 5px 5px;
+  border-radius: 20px;
+  color: #000;
+  cursor: pointer;
+  box-shadow: 0px 0px 10px rgba(0, 80, 99, 0.4) !important;
+  -moz-box-shadow: 0px 0px 10px rgba(0, 80, 99, 0.4) !important;
+  -webkit-box-shadow: 0px 0px 10px rgba(0, 80, 99, 0.4) !important;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.our-works .ow-item .ow-link i {
+  color: #00bfa5;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.our-works .ow-item .ow-link i:last-of-type {
+  margin-right: 10px;
+}
+.our-works .ow-item .ow-link:hover {
+  background-color: #00bfa5;
+  color: #ffffff;
+}
+.our-works .ow-item .ow-link:hover i {
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=style.css.map */
