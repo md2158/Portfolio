@@ -38,6 +38,29 @@
             <p class="lead"><b>Our Works:</b></p>
             <div class="our-works">
               <div class="row">
+
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
+                  <div class="ow-item">
+                    <img src="img/works/gard.jpg" alt="">
+                    <a href="https://meret.pro/works/gard/" class="ow-link" target="_blank">
+                      <i class="fas fa-globe"></i>
+                      <!-- <i class="fab fa-wordpress"></i> -->
+                      <span>Gard</span>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
+                  <div class="ow-item">
+                    <img src="img/works/sabbia.jpg" alt="">
+                    <a href="https://meret.pro/works/sabbia/" class="ow-link" target="_blank">
+                      <i class="fas fa-globe"></i>
+                      <!-- <i class="fab fa-wordpress"></i> -->
+                      <span>Sabbia Coffee</span>
+                    </a>
+                  </div>
+                </div>
+
                 <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
                   <div class="ow-item">
                     <img src="img/works/balakan.jpg" alt="">
