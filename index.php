@@ -83,16 +83,6 @@
           </div>
           <div class="col-md-9 col-12 order-1 order-md-2">
             <div class="row">
-              <!-- Ideal Pro -->
-              <div class="col-md-4 col-sm-6 col-12 mb-4">
-                <div class="ow-item">
-                  <img src="img/works/ideal-pro.jpg" alt="">
-                  <a href="https://meret.pro/works/remont/" class="ow-link" target="_blank">
-                    <i class="fas fa-globe"></i>
-                    <span>Ideal Pro</span>
-                  </a>
-                </div>
-              </div>
               <!-- Denet Storage -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
@@ -112,6 +102,16 @@
                     <i class="fas fa-globe"></i>
                     <i class="fab fa-symfony"></i>
                     <span>carstoris.ru</span>
+                  </a>
+                </div>
+              </div>
+              <!-- Ideal Pro -->
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/ideal-pro.jpg" alt="">
+                  <a href="https://meret.pro/works/remont/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>Ideal Pro</span>
                   </a>
                 </div>
               </div>
