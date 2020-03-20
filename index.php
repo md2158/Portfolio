@@ -93,6 +93,28 @@
                   </a>
                 </div>
               </div>
+              <!-- Denet Storage -->
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/storage.denet.jpg " alt="">
+                  <a href="https://storage.denet.pro/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-vuejs"></i>
+                    <span>storage.denet.pro</span>
+                  </a>
+                </div>
+              </div>
+              <!-- CarStoris -->
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/carstoris.jpg " alt="">
+                  <a href="https://carstoris.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-symfony"></i>
+                    <span>carstoris.ru</span>
+                  </a>
+                </div>
+              </div>
               <!-- Voyager -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
@@ -187,17 +209,6 @@
                   </a>
                 </div>
               </div>
-              <!-- CarStoris -->
-              <div class="col-md-4 col-sm-6 col-12 mb-4">
-                <div class="ow-item">
-                  <img src="img/works/carstoris.jpg " alt="">
-                  <a href="https://carstoris.ru/" class="ow-link" target="_blank">
-                    <i class="fas fa-globe"></i>
-                    <i class="fab fa-symfony"></i>
-                    <span>carstoris.ru</span>
-                  </a>
-                </div>
-              </div>
               <!-- Vizitka CRM -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
@@ -239,17 +250,6 @@
                     <i class="fas fa-globe"></i>
                     <i class="fab fa-wordpress"></i>
                     <span>denet.pro</span>
-                  </a>
-                </div>
-              </div>
-              <!-- Denet Storage -->
-              <div class="col-md-4 col-sm-6 col-12 mb-4">
-                <div class="ow-item">
-                  <img src="img/works/storage.denet.jpg " alt="">
-                  <a href="https://storage.denet.pro/" class="ow-link" target="_blank">
-                    <i class="fas fa-globe"></i>
-                    <i class="fab fa-vuejs"></i>
-                    <span>storage.denet.pro</span>
                   </a>
                 </div>
               </div>
