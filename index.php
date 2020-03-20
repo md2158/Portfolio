@@ -83,6 +83,16 @@
           </div>
           <div class="col-md-9 col-12 order-1 order-md-2">
             <div class="row">
+              <!-- Ideal Pro -->
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/ideal-pro.jpg" alt="">
+                  <a href="https://meret.pro/works/remont/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>Ideal Pro</span>
+                  </a>
+                </div>
+              </div>
               <!-- Voyager -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
@@ -331,7 +341,7 @@
                 </div>
               </div>
               <!-- Tipografy Promo -->
-              <div class="col-md-4 col-sm-6 col-12 mb-4">
+              <!-- <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/tipografy-pro.jpg " alt="">
                   <a href="https://tipografy-pro.ru/" class="ow-link" target="_blank">
@@ -340,7 +350,7 @@
                     <span>tipografy-pro.ru</span>
                   </a>
                 </div>
-              </div>
+              </div> -->
               <!-- Etalon -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
