@@ -19,7 +19,7 @@ header {
   /* Safari */
   position: sticky;
   top: 0;
-  z-index: 1;
+  z-index: 4;
 }
 header .navbar {
   background-color: #00bfa5;
@@ -131,6 +131,14 @@ header .navbar ul li a:hover {
   }
   header .navbar ul li a {
     font-size: 20px;
+  }
+
+  .main-header {
+    padding-bottom: 20px;
+  }
+
+  .our-works {
+    padding-top: 20px;
   }
 }
 

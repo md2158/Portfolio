@@ -30,7 +30,7 @@
             </a>
           </li>
           <li>
-            <a href="https://github.com/merick2158">
+            <a href="https://github.com/merick2158" target="_blank">
               <i class="fab fa-github"></i>
             </a>
           </li>
@@ -47,8 +47,9 @@
         </div>
         <div class="col-12 px-4 pb-4 pt-1">
           <h1 class="lead text-center">We are very busy creating awesome staff for <b>You</b> <br/>and don't have time for our website :(</h1>
-          <!-- <p class="mb-1 text-center"><b>Contact Us: m(at)denet(dot)pro</b></p> -->
-          <!-- <div class="text-center"><a href="https://github.com/merick2158" target="_blank"><i class="fab fa-2x fa-github"></i></a></div> -->
+          <div class="animated fadeInDown slow infinite text-center mt-5 mb-n5">
+            <i class="fas fa-angle-double-down"></i>
+          </div>
         </div>
       </div>
     </div>
@@ -58,350 +59,347 @@
       <div class="our-works">
         <p class="lead text-center"><b>Our Works:</b></p>
         <div class="row">
+          <div class="col-md-3 col-12 order-2 order-md-1">
+            <!-- Yandex.RTB R-A-532642-1 -->
+            <div id="yandex_rtb_R-A-532642-1"></div>
+            <script type="text/javascript">
+                (function(w, d, n, s, t) {
+                    w[n] = w[n] || [];
+                    w[n].push(function() {
+                        Ya.Context.AdvManager.render({
+                            blockId: "R-A-532642-1",
+                            renderTo: "yandex_rtb_R-A-532642-1",
+                            async: true
+                        });
+                    });
+                    t = d.getElementsByTagName("script")[0];
+                    s = d.createElement("script");
+                    s.type = "text/javascript";
+                    s.src = "//an.yandex.ru/system/context.js";
+                    s.async = true;
+                    t.parentNode.insertBefore(s, t);
+                })(this, this.document, "yandexContextAsyncCallbacks");
+            </script>
+          </div>
+          <div class="col-md-9 col-12 order-1 order-md-2">
+            <div class="row">
 
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/uniteller.jpg" alt="">
-              <a href="https://meret.pro/works/uniteller/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <!-- <i class="fab fa-wordpress"></i> -->
-                <span>uniteller</span>
-              </a>
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/uniteller.jpg" alt="">
+                  <a href="https://meret.pro/works/uniteller/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <!-- <i class="fab fa-wordpress"></i> -->
+                    <span>uniteller</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/dtourism.jpg" alt="">
+                  <a href="http://turkmen.tours/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>turkmen.tours</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/tachil.jpg" alt="">
+                  <a href="http://tachil.com/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>tachil.com</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/poidem.jpg" alt="">
+                  <a href="https://rabota.poidem.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <!-- <i class="fab fa-wordpress"></i> -->
+                    <span>rabota.poidem.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/gard.jpg" alt="">
+                  <a href="https://meret.pro/works/gard/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <!-- <i class="fab fa-wordpress"></i> -->
+                    <span>Gard</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/sabbia.jpg" alt="">
+                  <a href="https://sabbia.demorosait.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <!-- <i class="fab fa-wordpress"></i> -->
+                    <span>Sabbia Coffee</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/balakan.jpg" alt="">
+                  <a href="https://balakan.store/" class="ow-link" target="_blank">
+                    <i class="fas fa-shopping-basket"></i>
+                    <!-- <i class="fas fa-globe"></i> -->
+                    <i class="fab fa-wordpress"></i>
+                    <span>balakan.store</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/inashgabat.jpg" alt="">
+                  <a href="http://ashgabat.in/en/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>ashgabat.in</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/carstoris.jpg " alt="">
+                  <a href="https://carstoris.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-symfony"></i>
+                    <span>carstoris.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/vizitka.jpg " alt="">
+                  <a href="http://vizitka.test-onpromo.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-symfony"></i>
+                    <span>vizitka.onpromo.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/context.jpg " alt="">
+                  <a href="http://context.test-onpromo.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-symfony"></i>
+                    <span>context-onpromo.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/beauty-shkaf.jpg " alt="">
+                  <a href="https://beautyshkaf.shop/" class="ow-link" target="_blank">
+                    <i class="fas fa-shopping-basket"></i>
+                    <!-- <i class="fas fa-globe"></i> -->
+                    <i class="fab fa-wordpress"></i>
+                    <span>beautyshkaf.shop</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/denet.jpg " alt="">
+                  <a href="https://denet.pro/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>denet.pro</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/storage.denet.jpg " alt="">
+                  <a href="https://storage.denet.pro/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-vuejs"></i>
+                    <span>storage.denet.pro</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/barer-promo.jpg " alt="">
+                  <a href="https://www.xn--80abn2ajbegbb2k.xn--p1ai/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <!-- <i class="fab fa-wordpress"></i> -->
+                    <span>барьерпромо.рф</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/fbbs.jpg " alt="">
+                  <a href="https://fatih.sch.id/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>fatih.sch.id</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/giras-sp.jpg " alt="">
+                  <a href="https://giras-sp.ru/" class="ow-link" target="_blank">
+                    <!-- <i class="fas fa-globe"></i> -->
+                    <i class="fas fa-shopping-basket"></i>
+                    <i class="fab fa-opencart"></i>
+                    <span>giras-sp.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/nailh.jpg " alt="">
+                  <a href="https://nailh.ru/" class="ow-link" target="_blank">
+                    <!-- <i class="fas fa-globe"></i> -->
+                    <i class="fas fa-shopping-basket"></i>
+                    <i class="fab fa-opencart"></i>
+                    <span>nailh.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/group-escort.jpg " alt="">
+                  <a href="https://www.fmeter.ru/esp/promo/fn/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>fmeter.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/peregorodki.jpg " alt="">
+                  <a href="https://peregorodki.msk.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>peregorodki.msk.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/blicm.jpg " alt="">
+                  <a href="https://blicm.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>blicm.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/kharisma.jpg " alt="">
+                  <a href="http://www.kharismabangsa.sch.id/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-joomla"></i>
+                    <span>kharismabangsa</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/tipografy-pro.jpg " alt="">
+                  <a href="https://tipografy-pro.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>tipografy-pro.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/etalon.jpg " alt="">
+                  <a href="http://etalon-srv.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>etalon-srv.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <!-- <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/smaservice.jpg " alt="">
+                  <a href="http://smaservice-kzn.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>smaservice-kzn.ru</span>
+                  </a>
+                </div>
+              </div> -->
+
+              <!-- <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/sknewlife.jpg " alt="">
+                  <a href="http://www.xn--80asbejw0a4ds.xn--p1ai/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>скньюлайф.рф</span>
+                  </a>
+                </div>
+              </div> -->
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/rosavtador.jpg " alt="">
+                  <a href="http://vv-fad.ru/new_web/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>vv-fad.ru</span>
+                  </a>
+                </div>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/a2plus.jpg " alt="">
+                  <a href="https://a2plus.info/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <i class="fab fa-wordpress"></i>
+                    <span>a2plus.info</span>
+                  </a>
+                </div>
+              </div>
+
             </div>
           </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/dtourism.jpg" alt="">
-              <a href="https://meret.pro/works/dtourism/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>turkmen.tours</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/tachil.jpg" alt="">
-              <a href="http://tachil.com/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>tachil.com</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/poidem.jpg" alt="">
-              <a href="https://rabota.poidem.ru/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <!-- <i class="fab fa-wordpress"></i> -->
-                <span>rabota.poidem.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/gard.jpg" alt="">
-              <a href="https://meret.pro/works/gard/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <!-- <i class="fab fa-wordpress"></i> -->
-                <span>Gard</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/sabbia.jpg" alt="">
-              <a href="https://meret.pro/works/sabbia/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <!-- <i class="fab fa-wordpress"></i> -->
-                <span>Sabbia Coffee</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/balakan.jpg" alt="">
-              <a href="https://balakan.store/" class="ow-link" target="_blank">
-                <i class="fas fa-shopping-basket"></i>
-                <!-- <i class="fas fa-globe"></i> -->
-                <i class="fab fa-wordpress"></i>
-                <span>balakan.store</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/inashgabat.jpg" alt="">
-              <a href="http://ashgabat.in/en/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>ashgabat.in</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/carstoris.jpg " alt="">
-              <a href="https://carstoris.ru/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-symfony"></i>
-                <span>carstoris.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/vizitka.jpg " alt="">
-              <a href="http://vizitka.test-onpromo.ru/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-symfony"></i>
-                <span>vizitka.onpromo.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/context.jpg " alt="">
-              <a href="http://context.test-onpromo.ru/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-symfony"></i>
-                <span>context-onpromo.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/beauty-shkaf.jpg " alt="">
-              <a href="https://beautyshkaf.shop/" class="ow-link" target="_blank">
-                <i class="fas fa-shopping-basket"></i>
-                <!-- <i class="fas fa-globe"></i> -->
-                <i class="fab fa-wordpress"></i>
-                <span>beautyshkaf.shop</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/denet.jpg " alt="">
-              <a href="https://denet.pro/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>denet.pro</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/storage.denet.jpg " alt="">
-              <a href="https://storage.denet.pro/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-vuejs"></i>
-                <span>storage.denet.pro</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/barer-promo.jpg " alt="">
-              <a href="https://www.xn--80abn2ajbegbb2k.xn--p1ai/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <!-- <i class="fab fa-wordpress"></i> -->
-                <span>барьерпромо.рф</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/fbbs.jpg " alt="">
-              <a href="https://fatih.sch.id/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>fatih.sch.id</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/giras-sp.jpg " alt="">
-              <a href="https://giras-sp.ru/" class="ow-link" target="_blank">
-                <!-- <i class="fas fa-globe"></i> -->
-                <i class="fas fa-shopping-basket"></i>
-                <i class="fab fa-opencart"></i>
-                <span>giras-sp.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/nailh.jpg " alt="">
-              <a href="https://nailh.ru/" class="ow-link" target="_blank">
-                <!-- <i class="fas fa-globe"></i> -->
-                <i class="fas fa-shopping-basket"></i>
-                <i class="fab fa-opencart"></i>
-                <span>nailh.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/group-escort.jpg " alt="">
-              <a href="https://www.fmeter.ru/esp/promo/fn/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <span>fmeter.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/peregorodki.jpg " alt="">
-              <a href="https://peregorodki.msk.ru/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>peregorodki.msk.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/blicm.jpg " alt="">
-              <a href="https://blicm.ru/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>blicm.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/kharisma.jpg " alt="">
-              <a href="http://www.kharismabangsa.sch.id/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-joomla"></i>
-                <span>kharismabangsa</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/tipografy-pro.jpg " alt="">
-              <a href="https://tipografy-pro.ru/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>tipografy-pro.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/etalon.jpg " alt="">
-              <a href="http://etalon-srv.ru/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>etalon-srv.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <!-- <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/smaservice.jpg " alt="">
-              <a href="http://smaservice-kzn.ru/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>smaservice-kzn.ru</span>
-              </a>
-            </div>
-          </div> -->
-
-          <!-- <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/sknewlife.jpg " alt="">
-              <a href="http://www.xn--80asbejw0a4ds.xn--p1ai/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <span>скньюлайф.рф</span>
-              </a>
-            </div>
-          </div> -->
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/rosavtador.jpg " alt="">
-              <a href="http://vv-fad.ru/new_web/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>vv-fad.ru</span>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12 mb-4">
-            <div class="ow-item">
-              <img src="img/works/a2plus.jpg " alt="">
-              <a href="https://a2plus.info/" class="ow-link" target="_blank">
-                <i class="fas fa-globe"></i>
-                <i class="fab fa-wordpress"></i>
-                <span>a2plus.info</span>
-              </a>
-            </div>
-          </div>
-
         </div>
       </div>
     </div>
   </div>
-  <div class="advertisement">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-auto">
-          <!-- Yandex.RTB R-A-532642-1 -->
-          <div id="yandex_rtb_R-A-532642-1"></div>
-          <script type="text/javascript">
-              (function(w, d, n, s, t) {
-                  w[n] = w[n] || [];
-                  w[n].push(function() {
-                      Ya.Context.AdvManager.render({
-                          blockId: "R-A-532642-1",
-                          renderTo: "yandex_rtb_R-A-532642-1",
-                          async: true
-                      });
-                  });
-                  t = d.getElementsByTagName("script")[0];
-                  s = d.createElement("script");
-                  s.type = "text/javascript";
-                  s.src = "//an.yandex.ru/system/context.js";
-                  s.async = true;
-                  t.parentNode.insertBefore(s, t);
-              })(this, this.document, "yandexContextAsyncCallbacks");
-          </script>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- End your project here-->
 
   <!-- jQuery -->
   <script type="text/javascript" src="js/jquery.min.js"></script>
