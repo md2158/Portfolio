@@ -83,18 +83,27 @@
           </div>
           <div class="col-md-9 col-12 order-1 order-md-2">
             <div class="row">
-
+              <!-- Voyager -->
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/voyager.jpg" alt="">
+                  <a href="https://voyager.demorosait.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>Voyager</span>
+                  </a>
+                </div>
+              </div>
+              <!-- Uniteller -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/uniteller.jpg" alt="">
                   <a href="https://meret.pro/works/uniteller/" class="ow-link" target="_blank">
                     <i class="fas fa-globe"></i>
-                    <!-- <i class="fab fa-wordpress"></i> -->
                     <span>uniteller</span>
                   </a>
                 </div>
               </div>
-
+              <!-- Dashoguz Tourism -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/dtourism.jpg" alt="">
@@ -105,7 +114,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Tac Hil -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/tachil.jpg" alt="">
@@ -116,52 +125,48 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Poidem Bank HR -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/poidem.jpg" alt="">
                   <a href="https://rabota.poidem.ru/" class="ow-link" target="_blank">
                     <i class="fas fa-globe"></i>
-                    <!-- <i class="fab fa-wordpress"></i> -->
                     <span>rabota.poidem.ru</span>
                   </a>
                 </div>
               </div>
-
+              <!-- Gard -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/gard.jpg" alt="">
                   <a href="https://meret.pro/works/gard/" class="ow-link" target="_blank">
                     <i class="fas fa-globe"></i>
-                    <!-- <i class="fab fa-wordpress"></i> -->
                     <span>Gard</span>
                   </a>
                 </div>
               </div>
-
+              <!-- Sabbia Coffee -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/sabbia.jpg" alt="">
                   <a href="https://sabbia.demorosait.ru/" class="ow-link" target="_blank">
                     <i class="fas fa-globe"></i>
-                    <!-- <i class="fab fa-wordpress"></i> -->
                     <span>Sabbia Coffee</span>
                   </a>
                 </div>
               </div>
-
+              <!-- Balakan Store -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/balakan.jpg" alt="">
                   <a href="https://balakan.store/" class="ow-link" target="_blank">
                     <i class="fas fa-shopping-basket"></i>
-                    <!-- <i class="fas fa-globe"></i> -->
                     <i class="fab fa-wordpress"></i>
                     <span>balakan.store</span>
                   </a>
                 </div>
               </div>
-
+              <!-- InAshgabat News -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/inashgabat.jpg" alt="">
@@ -172,7 +177,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- CarStoris -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/carstoris.jpg " alt="">
@@ -183,7 +188,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Vizitka CRM -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/vizitka.jpg " alt="">
@@ -194,7 +199,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Context - Online Promo -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/context.jpg " alt="">
@@ -205,19 +210,18 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Beauty Shkaf Shop -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/beauty-shkaf.jpg " alt="">
                   <a href="https://beautyshkaf.shop/" class="ow-link" target="_blank">
                     <i class="fas fa-shopping-basket"></i>
-                    <!-- <i class="fas fa-globe"></i> -->
                     <i class="fab fa-wordpress"></i>
                     <span>beautyshkaf.shop</span>
                   </a>
                 </div>
               </div>
-
+              <!-- Denet -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/denet.jpg " alt="">
@@ -228,7 +232,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Denet Storage -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/storage.denet.jpg " alt="">
@@ -239,7 +243,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Барьер промо -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/barer-promo.jpg " alt="">
@@ -250,7 +254,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Fatih BBS -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/fbbs.jpg " alt="">
@@ -261,31 +265,29 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Giras shop -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/giras-sp.jpg " alt="">
                   <a href="https://giras-sp.ru/" class="ow-link" target="_blank">
-                    <!-- <i class="fas fa-globe"></i> -->
                     <i class="fas fa-shopping-basket"></i>
                     <i class="fab fa-opencart"></i>
                     <span>giras-sp.ru</span>
                   </a>
                 </div>
               </div>
-
+              <!-- Nailh Shop -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/nailh.jpg " alt="">
                   <a href="https://nailh.ru/" class="ow-link" target="_blank">
-                    <!-- <i class="fas fa-globe"></i> -->
                     <i class="fas fa-shopping-basket"></i>
                     <i class="fab fa-opencart"></i>
                     <span>nailh.ru</span>
                   </a>
                 </div>
               </div>
-
+              <!-- FMeter -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/group-escort.jpg " alt="">
@@ -295,7 +297,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Peregorodki -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/peregorodki.jpg " alt="">
@@ -306,7 +308,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Blicm -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/blicm.jpg " alt="">
@@ -317,7 +319,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Kharisma Bangsa -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/kharisma.jpg " alt="">
@@ -328,7 +330,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Tipografy Promo -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/tipografy-pro.jpg " alt="">
@@ -339,7 +341,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- Etalon -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/etalon.jpg " alt="">
@@ -350,7 +352,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- SMA Service -->
               <!-- <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/smaservice.jpg " alt="">
@@ -361,7 +363,7 @@
                   </a>
                 </div>
               </div> -->
-
+              <!-- Скньюлайф -->
               <!-- <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/sknewlife.jpg " alt="">
@@ -371,7 +373,7 @@
                   </a>
                 </div>
               </div> -->
-
+              <!-- Avtador -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/rosavtador.jpg " alt="">
@@ -382,7 +384,7 @@
                   </a>
                 </div>
               </div>
-
+              <!-- A2Plus Promo -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/a2plus.jpg " alt="">
