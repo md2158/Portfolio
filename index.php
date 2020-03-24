@@ -109,9 +109,9 @@
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/ideal-pro.jpg" alt="">
-                  <a href="https://meret.pro/works/remont/" class="ow-link" target="_blank">
+                  <a href="http://xn----btbkckyciigalc6ai7b.xn--p1ai/" class="ow-link" target="_blank">
                     <i class="fas fa-globe"></i>
-                    <span>Ideal Pro</span>
+                    <span>Ремонт Безхлопот</span>
                   </a>
                 </div>
               </div>
