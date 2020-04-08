@@ -226,7 +226,7 @@
                   <img src="img/works/context.jpg " alt="">
                   <a href="http://context.test-onpromo.ru/" class="ow-link" target="_blank">
                     <i class="fas fa-globe"></i>
-                    <i class="fab fa-symfony"></i>
+                    <i class="fab fa-wordpress"></i>
                     <span>context-onpromo.ru</span>
                   </a>
                 </div>
