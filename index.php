@@ -105,6 +105,16 @@
                   </a>
                 </div>
               </div>
+              <!-- Voyager -->
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/quartet.jpg" alt="">
+                  <a href="https://quartet.demorosait.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>Quartet</span>
+                  </a>
+                </div>
+              </div>
               <!-- Ideal Pro -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
