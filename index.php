@@ -120,7 +120,17 @@
                   </a>
                 </div>
               </div>
-              <!-- Voyager -->
+              <!-- Lowence -->
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/lowence.jpg" alt="">
+                  <a href="https://lowence.demorosait.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>Lowence</span>
+                  </a>
+                </div>
+              </div>
+              <!-- Quartet -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/quartet.jpg" alt="">
@@ -196,7 +206,7 @@
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/gard.jpg" alt="">
-                  <a href="https://meret.pro/works/gard/" class="ow-link" target="_blank">
+                  <a href="http://gardtd.ru/" class="ow-link" target="_blank">
                     <i class="fas fa-globe"></i>
                     <span>Gard</span>
                   </a>
