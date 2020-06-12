@@ -120,6 +120,36 @@
                   </a>
                 </div>
               </div>
+              <!-- Inkotech Catalog -->
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/inkotech.jpg" alt="">
+                  <a href="http://inkotech.ru/catalog/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>inkotech.ru/catalog</span>
+                  </a>
+                </div>
+              </div>
+              <!-- interio-home Coffee -->
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/interio-home.jpg" alt="">
+                  <a href="https://interiohome.ee/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>interiohome.ee</span>
+                  </a>
+                </div>
+              </div>
+              <!-- Chugun-pro Coffee -->
+              <div class="col-md-4 col-sm-6 col-12 mb-4">
+                <div class="ow-item">
+                  <img src="img/works/chugun-pro.jpg" alt="">
+                  <a href="https://chugunpro.demorosait.ru/" class="ow-link" target="_blank">
+                    <i class="fas fa-globe"></i>
+                    <span>чугун.pro</span>
+                  </a>
+                </div>
+              </div>
               <!-- Lowence -->
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
@@ -216,7 +246,7 @@
               <div class="col-md-4 col-sm-6 col-12 mb-4">
                 <div class="ow-item">
                   <img src="img/works/sabbia.jpg" alt="">
-                  <a href="https://sabbia.demorosait.ru/" class="ow-link" target="_blank">
+                  <a href="https://sabbia-coffee.ru/" class="ow-link" target="_blank">
                     <i class="fas fa-globe"></i>
                     <span>Sabbia Coffee</span>
                   </a>
