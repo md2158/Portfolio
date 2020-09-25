@@ -92,23 +92,28 @@ header {
     }
     .ow-item {
         text-align: center;
-        img {
-            width: 100%;
-            border-radius: 10px;
-            margin-bottom: -10px;
-            @include box-shadow(0, 0, 10, .3 );
-        }
         .ow-link {
             background-color: #ffffff;
             padding: 5px 15px 5px 5px;
             border-radius: 20px;
             color: #000;
             cursor: pointer;
+            line-height: 1;
+            display: inline-flex;
+            align-items: center;
             @include box-shadow(0, 0, 10, .4 );
             @include transition-all(.2);
+            img {
+                height: 18px;
+                width: auto;
+                margin-right: 4px;
+            }
             i {
                 color: #00bfa5;
                 @include transition-all(.2);
+                &:first-child {
+                    margin-right: 4px;
+                }
                 &:last-of-type {
                     margin-right: 10px;
                 }
@@ -121,6 +126,12 @@ header {
                 }
             }
         }
+    }
+    .ow-img {
+        width: 100%;
+        border-radius: 10px;
+        margin-bottom: -10px;
+        @include box-shadow(0, 0, 10, .3 );
     }
 }
 
