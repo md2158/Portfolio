@@ -118,6 +118,7 @@
                     array("title" => "Balakan Store", "imgUrl" => "img/works/balakan.jpg", "url" => "https://meret.pro/works/balakan/", "urlText" => "balakan.store", "icons" => array("fab fa-wordpress")),
                     array("title" => "Korpeler Store", "imgUrl" => "img/works/korpeler.jpg", "url" => "https://meret.pro/works/korpelerStore/", "urlText" => "korpeler.store", "icons" => array("fas fa-globe")),
                     array("title" => "Porfolio", "imgUrl" => "img/works/atajan.jpg", "url" => "https://meret.pro/works/ataweb/", "urlText" => "Portfolio", "icons" => array("fas fa-globe")),
+                    array("title" => "АО КБХИММАШ", "imgUrl" => "img/works/kbh.jpg", "url" => "https://meret.pro/works/kbh/", "urlText" => "АО КБХИММАШ", "icons" => array("fas fa-globe")),
                 );
                 $stack = array()
               ?>
