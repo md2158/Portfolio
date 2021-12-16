@@ -92,6 +92,18 @@ header {
     }
     .ow-item {
         text-align: center;
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+        &:hover {
+            .ow-link {
+                background-color: #00bfa5;
+                color: #ffffff;
+                i {
+                    color: #ffffff;
+                }
+            }
+        }
         .ow-link {
             background-color: #ffffff;
             padding: 5px 15px 5px 5px;
@@ -116,13 +128,6 @@ header {
                 }
                 &:last-of-type {
                     margin-right: 10px;
-                }
-            }
-            &:hover {
-                background-color: #00bfa5;
-                color: #ffffff;
-                i {
-                    color: #ffffff;
                 }
             }
         }
