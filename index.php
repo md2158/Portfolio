@@ -81,7 +81,6 @@
                     array("title" => "Elba Concept", "imgUrl" => "img/works/elba.jpg", "url" => "https://elbaconcept.com/", "urlText" => "elbaconcept.com", "icons" => array("fab fa-wordpress", "fas fa-shopping-basket")),
                     array("title" => "JUS Parfums", "imgUrl" => "img/works/jus.jpg", "url" => "https://jusparfums.com/en/", "urlText" => "jusparfums.com", "icons" => array("image" => array("img/prestashop.png", "prestashop-icon"), "fas fa-shopping-basket")),
                     array("title" => "Fatih BBS", "imgUrl" => "img/works/fbbs.jpg", "url" => "https://fatih.sch.id/", "urlText" => "fatih.sch.id", "icons" => array("fab fa-wordpress")),
-                    array("title" => "FreeToker", "imgUrl" => "img/works/freeToker.jpg", "url" => "https://freetoker.com/", "urlText" => "freetoker.com", "icons" => array("image" => array("img/metamask.png", "metamask-icon"), "fab fa-react")),
                     array("title" => "Panalpa", "imgUrl" => "img/works/panalpa.jpg", "url" => "https://panalpa.net/", "urlText" => "panalpa.net", "icons" => array("fas fa-globe")),
                     array("title" => "Pack Plus", "imgUrl" => "img/works/packPlus.jpg", "url" => "http://packp.ru/pererabotka.html", "urlText" => "packp.ru", "icons" => array("fas fa-globe")),
                     array("title" => "Sany", "imgUrl" => "img/works/sany.jpg", "url" => "https://sany.ru/", "urlText" => "sany.ru", "icons" => array("fab fa-wordpress")),
