@@ -72,6 +72,7 @@
           <div class="col-12 order-1 order-md-2">
               <?php
                 $works = array(
+                    array("title" => "Denet.Pass", "imgUrl" => "img/works/denet_pass.jpg", "url" => "https://chrome.google.com/webstore/detail/denet-pass/hdpllppbfbcdiiggheokhenpikpjebcg", "urlText" => "deNet.Pass", "icons" => array("fab fa-vuejs", "fab fa-chrome")),
                     array("title" => "Denet Storage", "imgUrl" => "img/works/storage.denet.jpg", "url" => "https://github.com/DeNetPRO/StorageProvider", "urlText" => "storage.denet.pro", "icons" => array("fab fa-vuejs")),
                     array("title" => "Denet Sandbox", "imgUrl" => "img/works/sandbox.jpg", "url" => "https://mainnet.dfile.tech/", "urlText" => "mainnet.dfile.tech", "icons" => array("image" => array("img/metamask.png", "metamask-icon"), "fab fa-vuejs")),
                     array("title" => "DFile", "imgUrl" => "img/works/dfile.jpg", "url" => "https://dfile.tech/", "urlText" => "dFile.tech", "icons" => array("fab fa-gulp")),
